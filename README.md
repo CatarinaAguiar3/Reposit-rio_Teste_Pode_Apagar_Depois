@@ -1,2 +1,2 @@
-# Reposit-rio_Teste_Pode_Apagar_Depois
-Repositório para exercitar Git/Github
+# Repositório para exercitar Git/Github
+(Pode apagar depois)
